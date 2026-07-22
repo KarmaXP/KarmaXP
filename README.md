@@ -17,6 +17,8 @@ Backend Software Engineer based in Madrid, with a strong interest in Machine Lea
 Languages & Frameworks:
 
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
